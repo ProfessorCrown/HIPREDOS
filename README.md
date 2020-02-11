@@ -1,31 +1,34 @@
 
-## MineOS Standalone has released!
+## HIPRED OS - развилка от MineOS
 
-Hello again, dear friend. Thank you for being with us and supporting our ideas throughout the long development cycle. MineOS has finally reached the release stage: now it is a completely independent operating system with its own lightweight development API and wonderful [illustrated wiki](https://github.com/IgorTimofeev/MineOS/wiki) of it's usage. Here's a short features list:
+Здравствуй друг! Я хотел бы тебе рассказать что это и почему сделано так!
+Ну, во-первых, многии уже начали обсирать MineOS и причина того что Игорь (пусть идёт нахер) походу забил на своё творение, а я хочу его продолжить и дополнять
+Во-вторых, из-за хамского отношение к пользователям, в маркете ОС было много интересных программ и их благополучно поудалял Игорь. Я бы хотел поправить и сделать чтобы любой пользователь мог загружать любое приложение (но не пустышки) и хоть пусть ОС будет обновляться, приложения не будут удаляться, а авторам будет приходить уведомление о том что пора обновить на новый уровень
+На этом всё! Дальше будет просто преводы!
 
--   Multitasking
--   Double buffered graphical user interface
--   Language packs and software localization
--   Multiple user profiles with password authentication
--   Own EEPROM firmware with boot volume choose/format/rename features and Internet Recovery mode
--   File sharing over the local network via modems
--   Client connections to real FTP servers
--   An internal IDE with syntax highlighting and debugger
--   App Market for publishing programs for every MineOS user
--   Error reporting system with the possibility to send information to developers
--   Animations, wallpapers, screensavers, color schemes and huge customization possibilities
--   Open source system API and detailed illustrated documentations
+Для разработчиков приложений - https://github.com/ProfessorCrown/WIKI-RUSSIA
 
-## How to install?
+-   Мультизадачность
+-   Двойная буферезация пользовательского интерфейса
+-   Языковые пакеты и локализация программного обеспечения
+-   Несколько профилей пользователей с аутентификацией паролем
+-   Собственная прошивка EEPROM с загрузочным Томом выберите/формат / переименовать функции и режим восстановления Интернета
+-   Обмен файлами по локальной сети через модемы
+-   Клиентские соединения с реальными FTP серверами
+-   Внутренняя среда IDE с подсветкой синтаксиса и отладчиком
+-   App Market для публикации программ для каждого пользователя HIPRED OS
+-   Система отчетов об ошибках с возможностью отправки информации разработчикам
+-   Анимация, обои, заставки, цветовые схемы и огромные возможности настройки
+-   API системы с открытым исходным кодом и подробные иллюстрированные документы
 
-The easiest way is to use default **pastebin** script. Insert OpenOS floppy disk to computer, insert an Internet Card, turn computer on and type the following to console:
+## Как установить?
+
+Самый простой способ-использовать сценарий default **pastebin**. Вставьте дискету OpenOS в компьютер, вставьте интернет-карту, включите компьютер и введите в консоль следующее:
 
 	pastebin run 0nm5b1ju
 
-After a moment, a nice system installer will be shown. You will be prompted to select your preferred language, select and format a boot volume, create a user profile and customize some settings. After that, the system will be successfully installed.
+Через некоторое время появится хороший системный инсталлятор. Вам будет предложено выбрать нужный язык, выбрать и отформатировать загрузочный том, создать профиль пользователя и настроить некоторые параметры. После этого система будет успешно установлена.
 
-## How to \*do_something\*?
+## Как сделать что-нибудь?
 
-[Wiki-wiki-wiki. Wi...
-...
-...ki.](https://github.com/IgorTimofeev/MineOS/wiki)
+[Вам сюда](https://github.com/ProfessorCrown/WIKI-RUSSIA)
